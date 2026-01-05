@@ -1,0 +1,26 @@
+dirb https://www.binance.com/  
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+START_TIME: Mon Jan  5 03:21:43 2026
+URL_BASE: https://www.binance.com/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612                                                          
+
+---- Scanning URL: https://www.binance.com/ ----
++ https://www.binance.com/api (CODE:302|SIZE:0)                                                                                                                      
++ https://www.binance.com/join (CODE:302|SIZE:0)                                                                                                                     
++ https://www.binance.com/oauth (CODE:302|SIZE:0)                                                                                                                    
++ https://www.binance.com/public (CODE:302|SIZE:0)                                                                                                                   
++ https://www.binance.com/referral (CODE:302|SIZE:0)                                                                                                                 
++ https://www.binance.com/robots.txt (CODE:200|SIZE:4101)                                                                                                            
+                                                                                                                                                                     
+-----------------
+END_TIME: Mon Jan  5 03:26:34 2026
+DOWNLOADED: 4612 - FOUND: 6
